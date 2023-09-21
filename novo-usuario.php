@@ -14,7 +14,7 @@
     </div>
     <div class="mb-3">
         <label for="">Data de Nascimento</label>
-        <input type="date" name="data_nasc" class="form-control">
+        <input type="date" name="data_nasc" class="form-control"
     </div>
     <div class="mb-3">
         <button type="submit" class="btn btn-primary">
